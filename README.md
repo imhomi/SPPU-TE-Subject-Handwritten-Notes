@@ -6,4 +6,4 @@ This includes Handwritten notes for SPPU 2019 PAT (Third Year)
 ## Operating Systems
 ## Advance DBMS
 ## TOC
-## Human and Computer Iteraction
+## Human and Computer Interaction
