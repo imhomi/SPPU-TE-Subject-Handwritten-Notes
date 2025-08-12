@@ -14,3 +14,4 @@ Click on a subject to view the notes.
 
 ---
 *If you find these notes helpful, please consider giving this repository a ⭐️!*
+![Visitor Count](https://komarev.com/ghpvc/?username=imhomi&repo=TE-Notes&style=flat-square)
