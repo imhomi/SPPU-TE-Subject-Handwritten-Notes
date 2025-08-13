@@ -1,9 +1,45 @@
 # TE Notes - SPPU 2019 Pattern
-
-This repository contains handwritten notes and materials for Third Year (TE) Information Technology subjects, following the SPPU 2019 Pattern.
+Welcome! This repository contains handwritten notes and materials for Third Year (TE) Information Technology subjects, following the Savitribai Phule Pune University (SPPU) 2019 Pattern.
 
 ---
-*If you find these notes helpful, please consider giving this repository a ⭐️!*
+![A student trying to absorb all the information before an exam](https://media.giphy.com/media/l378gODdla75xN0I0/giphy.gif)
+
+## 📚 Subjects Covered & Status
+
+Here is the current status of the notes available in this repository.
+
+| Subject Name | Status / Notes |
+| :--- | :--- |
+| 🖥️ **Operating Systems (OS)** | ⚠️ **Unit 2 handwritten notes is missing.** |
+| 🧠 **Machine Learning (ML)** | ⚠️ **Units 1 & 3 are missing.** |
+| 🗃️ **Advanced Database Management (ADBMS)**| ⚠️ **Unit 6 is missing.** |
+| 🌐 **Computer Networks & Security (CNS)** | ✅ All units uploaded. |
+| ☁️ **Cloud Computing** | ✅ All units uploaded. |
+| 📊 **Data Science and Big Data Analytics** | ✅ All units uploaded. |
+| 🧑‍💻 **Human Computer Interaction (HCI)** | ✅ All units uploaded. |
+| 🌐 **Web Application Development (WAD)** | ✅ All units uploaded. |
+
+---
+
+## 🚧 Work in Progress
+
+This repository is actively being updated. The following notes are the highest priority and will be uploaded soon:
+
+* **Operating Systems:** Unit 2 (Printed PDF is uploaded for reference)
+* **Machine Learning:** Unit 1 & Unit 3
+* **Advanced Database Management:** Unit 6
+
+Stay tuned for updates!
+
+---
+
+## Disclaimer
+
+These notes are based on personal study and interpretation. They are intended for reference purposes to aid your learning. Always cross-reference with official textbooks and course materials for the most accurate information.
+
+**All the Best**
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=imhomi&repo=TE-Notes&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=imhomi&color=blue&style=flat)
+
+If you find these notes helpful, please consider giving this repository a ⭐!
