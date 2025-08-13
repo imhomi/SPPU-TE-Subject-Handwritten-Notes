@@ -2,7 +2,7 @@
 Welcome! This repository contains handwritten notes and materials for Third Year (TE) Information Technology subjects, following the Savitribai Phule Pune University (SPPU) 2019 Pattern.
 
 ---
-git add images/<img width="600" height="450" alt="Girl house on fire" src="https://github.com/user-attachments/assets/8abd1132-76ff-40e3-85b4-36be57c4c05c" />
+<img width="600" height="450" alt="Girl house on fire" src="https://github.com/user-attachments/assets/8abd1132-76ff-40e3-85b4-36be57c4c05c" />
 
 
 ## 📚 Subjects Covered & Status
