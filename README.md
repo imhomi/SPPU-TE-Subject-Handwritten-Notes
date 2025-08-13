@@ -1,4 +1,4 @@
-# TE Notes - SPPU 2019 Pattern
+# TE (Information Technology) Notes - SPPU 2019 Pattern
 Welcome! This repository contains handwritten notes and materials for Third Year (TE) Information Technology subjects, following the Savitribai Phule Pune University (SPPU) 2019 Pattern.
 
 ---
